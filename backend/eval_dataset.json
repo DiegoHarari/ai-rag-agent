@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What are React hooks?",
+    "expected": "Based on general knowledge, React hooks are a way for functional components to use state and other React features without having to wrap their components in class components or higher-order components (HOCs). They provide a way to hook into React's state and lifecycle methods from functional components."
+  },
+  {
+    "question": "What does useState do?",
+    "expected": "useState allows a component to manage state."
+  },
+  {
+    "question": "What is TypeScript?",
+    "expected": "TypeScript is a typed superset of JavaScript."
+  }
+]
