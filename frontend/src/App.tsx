@@ -1,5 +1,6 @@
 import { useState } from "react";
 import axios from "axios";
+import Chat from "./Message";
 
 function App() {
 
@@ -73,6 +74,7 @@ function App() {
       >
         Send
       </button>
+      <Chat />
 
     </div>
   );
